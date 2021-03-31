@@ -24,7 +24,7 @@ incremental==17.5.0
 isodate==0.6.0
 Keras==2.1.4
 keyring==13.2.1
-lxml==4.2.3
+lxml==4.6.3
 Markdown==2.6.11
 msrest==0.5.1
 msrestazure==0.4.34
